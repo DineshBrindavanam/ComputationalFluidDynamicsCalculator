@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555480328 source:d:\material\practice\c++\cfdcalculator\cfdcalc\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
